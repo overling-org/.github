@@ -1,5 +1,5 @@
 OverLing — 多言語 OCR オーバーレイ翻訳ツール
-<img src="LOGO_PLACEHOLDER" width="200">
+<img width="200" alt="Image" src="https://github.com/user-attachments/assets/a4bee303-24dd-416f-8a36-e6b7a563497f" />
 
 OverLing は、Web ページ上のテキストや画像内の文字を OCR で抽出し、
 複数の言語を自動判別して 元の位置に重ねて翻訳を表示する Chrome 拡張機能です。
@@ -168,7 +168,7 @@ MIT License.
 -----------------------------------------------------------------------------------------------------------
 
 OverLing — Multilingual OCR Overlay Translator
-<img src="LOGO_PLACEHOLDER" width="200">
+<img width="200" alt="Image" src="https://github.com/user-attachments/assets/a4bee303-24dd-416f-8a36-e6b7a563497f" />
 
 OverLing is a Chrome extension that captures visible text—including text inside images—detects multiple languages in a single page, and overlays translated text directly on top of the original content.
 
